@@ -1,0 +1,35 @@
+:root {
+  --ff: "Kumbh Sans", sans-serif;
+  --primary-dark-blue-text: hsl(238, 29%, 16%);
+  --primary-soft-red-text: hsl(14, 88%, 65%);
+  --bg-gradient-violet: hsl(273, 75%, 66%);
+  --bg-gradient-blue: hsl(240, 73%, 65%);
+  --neutral-very-dark-blue-text: hsl(237, 12%, 33%);
+  --neutral-dark-blue-text: hsl(240, 6%, 50%);
+  --dividers-gray-blue: hsl(240, 5%, 91%);
+  --fs-body: 12px;
+  --fw-normal: 400;
+  --fw-bold: 700;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: var(--ff);
+}
+
+header {
+  position: relative;
+}
+header img:nth-of-type(2) {
+  position: relative;
+  top: 1.5rem;
+  right: 24.25rem;
+}
+
+/*# sourceMappingURL=style.css.map */
