@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [faq-card Github respository](https://github.com/aebb27/faq-card)
+- Live Site URL: [https://aebb27.github.io/faq-card/](https://aebb27.github.io/faq-card/)
 
 ## My process
 
